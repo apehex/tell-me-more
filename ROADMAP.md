@@ -12,7 +12,14 @@
 
 ## Project Milestones
 
-- [ ] Release Version 0.1.0 (Pre-Alpha)
+- [ ] Release Version 0.1.0 (Pre-Alpha): Scrape the history from the online platforms
+- [ ] Release Version 0.1.0 (Pre-Alpha): Skills evaluation and tracking
+- [ ] Release Version 0.1.0 (Pre-Alpha): Set and propose objectives
+- [ ] Release Version 0.1.0 (Pre-Alpha): Track the player's achievements
+- [ ] Release Version 0.1.0 (Pre-Alpha): [Bet money][beeminder] on goals and challenges
+- [ ] Release Version 0.1.0 (Pre-Alpha): Identify key moments (spots, equity misalignment, bubble, not enough variation, etc)
+- [ ] Release Version 0.1.0 (Pre-Alpha): Segment the sessions, replay the key moments
+- [ ] Release Version 0.1.0 (Pre-Alpha): Don't evaluate the play in terms of win/losses but in terms of progression, sticking to the objectives
 - [ ] Release Version 0.x.0 (Alpha)
 - [ ] Release Version 0.x.0 (Beta)
 - [ ] Release Version 1.0.0 (Stable)
@@ -25,3 +32,5 @@
 [stable-status-shield]: https://img.shields.io/badge/status-stable-blue.svg?longCache=true
 [mature-status-shield]: https://img.shields.io/badge/status-mature-8A2BE2.svg?longCache=true
 [inactive-status-shield]: https://img.shields.io/badge/status-inactive-lightgrey.svg?longCache=true
+
+[beeminder]: https://www.beeminder.com/
