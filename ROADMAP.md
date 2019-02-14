@@ -13,6 +13,8 @@
 ## Project Milestones
 
 - [ ] Release Version 0.1.0 (Pre-Alpha): Scrape the history from the online platforms
+- [ ] Release Version 0.1.0 (Pre-Alpha): Log thoughts, notes on layers
+- [ ] Release Version 0.1.0 (Pre-Alpha): Replay hands as a youtube video
 - [ ] Release Version 0.1.0 (Pre-Alpha): Skills evaluation and tracking
 - [ ] Release Version 0.1.0 (Pre-Alpha): Set and propose objectives
 - [ ] Release Version 0.1.0 (Pre-Alpha): Track the player's achievements
