@@ -1,6 +1,11 @@
 # Plan
 
-> Yearly objective
+> Code a single button app to follow and improve poker skills.
+
+Players tend to focus on the gains, which can be misleading on the long term.
+The full set of skills is extremely vast and not well represented by monetary gains.
+
+Tell-me-more replaces the monetary variance with stable skill improvement to win the long term game!
 
 ## Table of Contents
 
@@ -19,10 +24,9 @@
 
 ## Organization
 
-### TODO
+### Next
 
 ### Commitment
-
 
 ## Community
 
