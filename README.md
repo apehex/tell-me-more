@@ -1,24 +1,16 @@
 # Tell me more !
 
-[![Tagged Release][release-shield]](CHANGELOG.md)
-[![Development Status][planning-status-shield]](ROADMAP.md)
-[![Build Coverage][coverage-shield]][coverage-link]
-
-[![Build Status][travis-shield]][travis-link]
-[![Build Status][appveyor-shield]][appveyor-link]
-
 > Your only confident at the poker table :relieved:
 
 The more you tell this chatbot, the better it will help dissect your plays. It will propose relevant and motivating goals to improve on.
 
-
 * Free software: MIT
 * Documentation: https://tell-me-more.readthedocs.io.
-
 
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Status](#status)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -30,13 +22,35 @@ The more you tell this chatbot, the better it will help dissect your plays. It w
 - [Credits](#credits)
 - [License](#license)
 
+## Status
+
+[![Development Status][planning-status-shield]](ROADMAP.md)
+
+[![Tagged Release][release-shield]](CHANGELOG.md)
+[![Build Coverage][coverage-shield]][coverage-link]
+
+[![Build Status][travis-shield]][travis-link]
+[![Build Status][appveyor-shield]][appveyor-link]
+
 ## Features
+
+For now the project is being designed on all levels:
+- [the player achievements](ACHIEVEMENTS.md)
+- [the player goals and challenges](OBJECTIVES.md)
+- [the player skills](SKILLS.md)
+- [the application](SOFTWARE.md)
 
 ## Requirements
 
+None yet.
+
 ## Installation
 
+Nothing to install yet.
+
 ## Usage
+
+Read.
 
 ## Development
 
