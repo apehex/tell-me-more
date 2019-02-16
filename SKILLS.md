@@ -11,19 +11,31 @@
 
 # Physical Skills
 
-## Bla
+## Neutral Posture
 
-### Tracking and Debriefing
+## Neutral Reactions
 
-### Measure
-
-### Self-Assessment
-
-### Exercises
+## Spot and Control the Tells
 
 # Technical Skills
 
+## Player Examination
+
+- Time to take a decision
+  - variance pre/post flop
+  - with pot
+  - with board texture
+  - with previous actions
+- How he looks at the board
+- Trying to put a show or to get money
+
 # Mental Skills
+
+## Replaying Hands
+
+## Empathy
+
+Take the place of your opponent.
 
 ## Willpower
 
@@ -41,6 +53,10 @@
 
 - mood
 - fatigue
+
+## Loss management
+
+- short and long term
 
 # Organizational Skills
 
@@ -64,19 +80,11 @@
 
 - rest vs active
 - overall playing time
-- resting & belaying time
 - periods over the year
 - NOT playing time
+
+## Accepting Feedback
+
 - time using the application ~ motivation
 
-# Overview
-
-- gains over time :
-  - warm up time = low grade / max grade
-  - peak time
-  - confort time = conti
-
-Interpret playing time:
-- number of times performed a specific exercise
-- ratio out / in
-- repeat count on a project
+##  Taking Breaks
