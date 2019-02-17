@@ -35,9 +35,7 @@ The more you tell this chatbot, the better it will help dissect your plays. It w
 ## Features
 
 For now the project is being designed on all levels:
-- [the player achievements](ACHIEVEMENTS.md)
-- [the player goals and challenges](OBJECTIVES.md)
-- [the player skills](SKILLS.md)
+- [the player skills, goals and achievements](GAMIFICATION.md)
 - [the application](SOFTWARE.md)
 
 ## Requirements
