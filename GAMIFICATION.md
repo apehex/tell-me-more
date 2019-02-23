@@ -2,6 +2,7 @@
 
 > Poker is war, let's make it more fun with game mechanics!
 
+<!---------------------------------------------------------------------------->
 # Table of Contents
 
 - [Physical Skills](#physical-skills)
@@ -10,8 +11,10 @@
 - [Organizational Skills](#organizational-skills)
 - [Overall Skills](#overall-skills)
 
+<!---------------------------------------------------------------------------->
 # Physical Skills
 
+<!---------------------------------------------------------------------------->
 ## Neutral Posture
 
 Stay strong, and maintain an upward posture whatever the time and context.
@@ -26,6 +29,7 @@ How????
 Well if we can't track, how can we say if you improved?
 - play xx hours live
 
+<!---------------------------------------------------------------------------->
 ## Neutral Reactions
 
 ### Tracking, Metrics and Progression
@@ -38,6 +42,7 @@ Well if we can't track, how can we say if you improved?
 
 - playing constance
 
+<!---------------------------------------------------------------------------->
 ## Spot and Control the Tells
 
 ### Objectives and Achievements
@@ -47,8 +52,10 @@ List all the tells, and have the player rank them?
 - handling of the cards: position, do you play with them, etc
 - board checking
 
+<!---------------------------------------------------------------------------->
 # Technical Skills
 
+<!---------------------------------------------------------------------------->
 ## Pockets Last
 
 Assess the context before looking at your pockets:
@@ -58,14 +65,17 @@ Assess the context before looking at your pockets:
 THEN formulate goals, imagine how you'd use cards.
 And finally look at the pockets.
 
+<!---------------------------------------------------------------------------->
 ## Adjust to the Vilains
 
+<!---------------------------------------------------------------------------->
 ## Bet Sizing
 
 - try and **read** the meaning of each players bet:
   - bluff, value, test, protect?
 - **represent** with your sizing
 
+<!---------------------------------------------------------------------------->
 ## Player Examination
 
 - Time to take a decision
@@ -76,6 +86,7 @@ And finally look at the pockets.
 - How he looks at the board
 - Trying to put a show or to get money
 
+<!---------------------------------------------------------------------------->
 ## See and Use Betting Spots
 
 - identify the special spots:
@@ -84,32 +95,44 @@ And finally look at the pockets.
   - dominated
 - use them
 
+<!---------------------------------------------------------------------------->
 # Mental Skills
 
+<!---------------------------------------------------------------------------->
 ## Memorize the Board
 
 Take a good look at the board, imagine the combos, and then 
 
+<!---------------------------------------------------------------------------->
 ## Memorize your Pockets
 
+<!---------------------------------------------------------------------------->
 ## Replaying Hands
 
+<!---------------------------------------------------------------------------->
 ## Empathy
 
 Take the place of your opponent.
 
+<!---------------------------------------------------------------------------->
 ## Willpower
 
+<!---------------------------------------------------------------------------->
 ## Concentration
 
+<!---------------------------------------------------------------------------->
 ## Fear Management
 
+<!---------------------------------------------------------------------------->
 ## Mind Programming
 
+<!---------------------------------------------------------------------------->
 ## Behavior Modification
 
+<!---------------------------------------------------------------------------->
 ## Self-Awareness
 
+<!---------------------------------------------------------------------------->
 ## Control of State
 
 ### Tracking, Metrics and Progression
@@ -123,12 +146,15 @@ Take the place of your opponent.
 
 ### Objectives and Achievements
 
+<!---------------------------------------------------------------------------->
 ## Loss management
 
 - short and long term
 
+<!---------------------------------------------------------------------------->
 # Organizational Skills
 
+<!---------------------------------------------------------------------------->
 ## Goal Setting
 
 - for the training sessions
@@ -137,6 +163,7 @@ Take the place of your opponent.
 
 ## Tournament and Event Preparation
 
+<!---------------------------------------------------------------------------->
 ## Resting
 
 ### Tracking, Metrics and Progression
@@ -145,12 +172,14 @@ Take the place of your opponent.
 
 ### Objectives and Achievements
 
+<!---------------------------------------------------------------------------->
 ## Training Variety
 
 - poker variants
 - table types
 - tournament vs CG
 
+<!---------------------------------------------------------------------------->
 ## Training Consistency
 
 - rest vs active
@@ -158,10 +187,12 @@ Take the place of your opponent.
 - periods over the year
 - NOT playing time
 
+<!---------------------------------------------------------------------------->
 ## Accepting Feedback
 
 - time using the application ~ motivation
 
+<!---------------------------------------------------------------------------->
 ##  Taking Breaks
 
 ### Tracking, Metrics and Progression
@@ -174,6 +205,7 @@ Take the place of your opponent.
 
 - a pause every 1-2 hours
 
+<!---------------------------------------------------------------------------->
 ## Bankroll Management
 
 ### Tracking, Metrics and Progression
@@ -189,8 +221,10 @@ Take the place of your opponent.
 
 - playing constance
 
+<!---------------------------------------------------------------------------->
 # Overall Skills
 
+<!---------------------------------------------------------------------------->
 ## Gains and Losses
 
 ### Tracking, Metrics and Progression
